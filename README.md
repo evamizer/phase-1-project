@@ -98,6 +98,7 @@ Looking more into the data in the future could help us hone in on some pretty sp
 ## Repository Structure:
 
 ├── Data
+
     └── imdb.db.zip
     └── rt.movie_info.tsv
     └── rt.reviews.tsv
@@ -105,6 +106,7 @@ Looking more into the data in the future could help us hone in on some pretty sp
     └── tn.movie_budgets.csv
     
 ├── Data
+
     └── Director_List.png
     └── AWWG_Pro.png
     └── AROI_Pro.png
