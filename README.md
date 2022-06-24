@@ -73,7 +73,8 @@ This bar graph shows the relationship of months movies were released and how muc
 ![alt text](https://github.com/evamizer/phase-1-project/blob/master/Images/ADG_MR.png)
 
 In addition, this scatter plot shows the intruiging relationship between average rating and domestic gross, which will have us later when looking for looking for a director:
-![alt text](https://github.com/evamizer/phase-1-project/blob/master/Images/ADG_ARat.png)
+
+![alt text](img align="center" https://github.com/evamizer/phase-1-project/blob/master/Images/ADG_ARat.png)
 
 
 ## Conclusions
@@ -115,7 +116,6 @@ Looking more into the data in the future could help us hone in on some pretty sp
     └── ADG_MR.png
     └── ADG_Gen.png
     └── ADG_ARat.png
- 
 
 ├── .canvas
 
