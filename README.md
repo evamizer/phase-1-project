@@ -66,11 +66,15 @@ After reviewing all the files, I chose some specific files (and columns within t
 
 I focused on scatter plots and bar graphs with my reccommended budget labeled on each. While I have a few for each set of questions to consider, here are some examples: 
 
-This is a scatter plot I used to demonstrate the average domestic gross compared to the production budget:
+This is a scatter plot I used to demonstrate the average worldwide gross compared to the production budget:
+![alt text](https://github.com/evamizer/phase-1-project/blob/master/Images/AWWG_Pro.png)
 
 This bar graph shows the relationship of months movies were released and how much their grossed domestically on average:
+![alt text](https://github.com/evamizer/phase-1-project/blob/master/Images/ADG_MR.png)
 
 In addition, this scatter plot shows the intruiging relationship between average rating and domestic gross, which will have us later when looking for looking for a director:
+![alt text](https://github.com/evamizer/phase-1-project/blob/master/Images/ADG_ARat.png)
+
 
 ## Conclusions
 * Expect to budget about 22 million dollars, and have an average return on investment of about 14.5 million dollars. Should you choose to go international, your potential  worldwide gross would be roughly 72.21 million dollars.
@@ -89,14 +93,37 @@ Looking more into the data in the future could help us hone in on some pretty sp
 
 
 ## Non-Technical Presentation
-* [Here you will find my slideshow presentation](https://docs.google.com/presentation/d/1F7YMdGV7wwQWVfUvhbguNpTOeQabyAAIMdVyMaLj6SE/edit?usp=sharing)
+* [Here you will find my slideshow presentation](https://github.com/evamizer/phase-1-project/blob/master/presentation.pdf)
 
 ## Repository Structure:
+
+├── Data
+    └── imdb.db.zip
+    └── rt.movie_info.tsv
+    └── rt.reviews.tsv
+    └── tbdb.movies.csv
+    └── tn.movie_budgets.csv
+    
+├── Data
+    └── Director_List.png
+    └── AWWG_Pro.png
+    └── AROI_Pro.png
+    └── ARat_Runtime.png
+    └── AProDGWWG_ParAdv.png
+    └── ADG_MR.png
+    └── ADG_Gen.png
+    └── ADG_ARat.png
+ 
+
 ├── .canvas
 
 ├── .gitignore
+
 ├── LICENSE.md
+
 ├── README.md
-├── Microsoft_Movie_Studio_Presentation.pdf
+
+├── presentation.pdf
+
 └── student.ipynb
 
