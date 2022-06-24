@@ -74,7 +74,7 @@ This bar graph shows the relationship of months movies were released and how muc
 
 In addition, this scatter plot shows the intruiging relationship between average rating and domestic gross, which will have us later when looking for looking for a director:
 
-![alt text](img align="center" https://github.com/evamizer/phase-1-project/blob/master/Images/ADG_ARat.png)
+![alt text](https://github.com/evamizer/phase-1-project/blob/master/Images/ADG_ARat.png)
 
 
 ## Conclusions
@@ -98,34 +98,25 @@ Looking more into the data in the future could help us hone in on some pretty sp
 
 ## Repository Structure:
 
-├── Data
+    ├── Data
+        └── imdb.db.zip
+        └── rt.movie_info.tsv
+        └── rt.reviews.tsv
+        └── tbdb.movies.csv
+        └── tn.movie_budgets.csv
 
-    └── imdb.db.zip
-    └── rt.movie_info.tsv
-    └── rt.reviews.tsv
-    └── tbdb.movies.csv
-    └── tn.movie_budgets.csv
-    
-├── Data
-
-    └── Director_List.png
-    └── AWWG_Pro.png
-    └── AROI_Pro.png
-    └── ARat_Runtime.png
-    └── AProDGWWG_ParAdv.png
-    └── ADG_MR.png
-    └── ADG_Gen.png
-    └── ADG_ARat.png
-
-├── .canvas
-
-├── .gitignore
-
-├── LICENSE.md
-
-├── README.md
-
-├── presentation.pdf
-
-└── student.ipynb
-
+    ├── Images
+        └── Director_List.png
+        └── AWWG_Pro.png
+        └── AROI_Pro.png
+        └── ARat_Runtime.png
+        └── AProDGWWG_ParAdv.png
+        └── ADG_MR.png
+        └── ADG_Gen.png
+        └── ADG_ARat.png
+     ├── .canvas
+     ├── .gitignore
+     ├── LICENSE.md
+     ├── README.md
+     ├── presentation.pdf
+     └── student.ipynb
